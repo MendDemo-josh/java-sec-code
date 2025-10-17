@@ -1,3 +1,11 @@
 {
-  "settingsInheritedFrom": "MendDemo-josh/whitesource-config@main"
+  "settingsInheritedFrom": "MendDemo-josh/whitesource-config@main",
+   {
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": true,
+      "minVulnerabilitySeverity": "LOW"
+    }
+  }
+}
 }
