@@ -207,14 +207,14 @@
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi</artifactId>
-            <version>3.10-FINAL</version>
+            <version>5.4.1</version>
         </dependency>
 
         <!-- vuln maven jar. Solve xlsx.-->
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml</artifactId>
-            <version>3.9</version> <!-- 3.10-FINAL -->
+            <version>5.4.1</version> <!-- 3.10-FINAL -->
         </dependency>
 
         <dependency>
